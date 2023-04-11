@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572964536548",
+    "project_id": "takeme-a2cd0",
+    "storage_bucket": "takeme-a2cd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572964536548:android:98f63bc162f752708b2cf1",
+        "android_client_info": {
+          "package_name": "com.example.takeme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572964536548-5lno0afje91cu6q7shu784mpvhe4f24d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ5k6gB76W-JKnMa3U_v9-rtlXOeO_mCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572964536548-5lno0afje91cu6q7shu784mpvhe4f24d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
